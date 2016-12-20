@@ -40,5 +40,5 @@ Hence, in this example the zopfli filter saves 13% of storage.
 
 Links
 ------
- * Zopfli (https://code.google.com/p/zopfli/)
+ * Zopfli https://github.com/google/zopfli)
  * HDF5 (http://www.hdfgroup.org/HDF5/)
